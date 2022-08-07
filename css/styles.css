@@ -114,7 +114,7 @@ footer{
     height:20px;
 }
 
-.nav-item.dropdown:hover {
+.dropdown:hover>.dropdown-menu {
     display: block;
 }
 
