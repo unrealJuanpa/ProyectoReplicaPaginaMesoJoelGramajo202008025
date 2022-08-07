@@ -239,3 +239,22 @@ input[type="text"] {
     font-size: 20px;
     font-weight:650;
 }
+
+.explora-bk-props {
+    background-color: rgb(1,99,59);
+    text-align: center;
+}
+
+.explora-title-props {
+    margin-top:20px;
+    color:white;
+    font-size: 27px;
+    font-weight:500;
+}
+
+.explora-desc-props {
+    color:white;
+    font-size:15.1px;
+    font-weight: 600;
+    margin-top: 49px;
+}
