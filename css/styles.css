@@ -193,3 +193,31 @@ input[type="text"] {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.qeum-prop {
+    margin-top: 60px;
+}
+
+.qp-prop {
+    text-align: center;
+    font-size: 32px;
+    font-weight:650;
+}
+
+.subp-title {
+    font-size:16px;
+    font-weight: 600;
+}
+
+.subp-para {
+    font-size: 15px;
+    color:gray;
+}
+
+.col.center-align {
+    text-align: center;
+}
+
+.qeum-image-props {
+    width: 25%;
+}
