@@ -133,3 +133,57 @@ footer{
     margin-top: 34px;
     text-align: center;
 }
+
+.form-container {
+    margin-left: 410px;
+    margin-right: 410px;
+    text-align: center;
+}
+
+.h2-form {
+    margin-top: 50px;
+    text-align: left;
+    font-size: 27px;
+    font-style: normal;
+}
+
+input[type="text"] {
+    font-size:15px;
+    background-color: rgb(238,238,238);
+    border: rgb(238,238,238);
+}
+
+.row.custom-space {
+    margin-top:35px;
+}
+
+.form-control.custom-size {
+    height: 150px;
+    font-size:15px;
+    background-color: rgb(238,238,238);
+    border: rgb(238,238,238);
+}
+
+.nc-div-class.send-class {
+    text-align: right;
+    margin-right: 30px;
+}
+
+.custom-bk-image {
+    margin-top:100px;
+    background-image: url(/assets/images/fondoMeso.jpg);
+}
+
+.custom-cnc-p {
+    color:white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.custom-cnc-margin {
+    margin-top: 150px;
+}
+
+.custom-cnc-margin.two {
+    margin-top: 50px;
+}
