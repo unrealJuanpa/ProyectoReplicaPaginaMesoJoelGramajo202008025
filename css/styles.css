@@ -226,3 +226,16 @@ input[type="text"] {
     margin-left:100px;
     margin-right:100px;
 }
+
+.img-shadow {
+    width: 50%;
+    filter: brightness(120%);
+    filter: contrast(120%);
+    filter: drop-shadow(10px 10px 10px gray);
+}
+
+.para-reg {
+    text-align: center;
+    font-size: 20px;
+    font-weight:650;
+}
