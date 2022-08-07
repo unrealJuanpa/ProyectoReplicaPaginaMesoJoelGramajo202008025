@@ -1,0 +1,13 @@
+.custom-font-color {
+    color: rgb(1, 99, 59);
+}
+
+.dropdown dropdown-menu {
+  color: rgb(1, 99, 59);
+}
+
+.custom-navbar-font-style {
+  font-size:medium; 
+  color:rgb(1,99,59); 
+  font-weight:600;
+}

@@ -1,3 +1,4 @@
+/*
 header{
     background: #2c3e50;
     color:#fff;
@@ -18,4 +19,43 @@ aside{
 footer{
     background: #16a085;
     color: #ffff;
+}
+*/
+
+
+
+.custom_navbar_font {
+    margin-top: 20px;
+    font-size:medium; 
+    color:rgb(1,99,59); 
+    font-weight:600;
+}
+
+.dropdown-menu.custom-font {
+    margin-top: 27px;
+    font-size:medium; 
+    color:rgb(1,99,59); 
+    font-weight:600;
+}
+
+.dropdown-divider.custom-shape {
+    margin-top: -10px;
+    width: 200px;
+    height: 5px;
+    background-color: rgb(1,99,59);
+}
+
+.custom-header-bar {
+    width: auto;
+    height: 1px;
+    background-color: rgb(200,200, 200);
+}
+
+.dropdown-item {
+    margin: 10px;
+    font-weight: 600;
+}
+
+.custom-lupa-style {
+    margin-top: 12px;
 }
