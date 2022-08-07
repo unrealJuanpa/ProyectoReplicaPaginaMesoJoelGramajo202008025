@@ -221,3 +221,8 @@ input[type="text"] {
 .qeum-image-props {
     width: 25%;
 }
+
+.qeum-margin-lat {
+    margin-left:100px;
+    margin-right:100px;
+}
