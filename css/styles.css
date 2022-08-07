@@ -59,3 +59,77 @@ footer{
 .custom-lupa-style {
     margin-top: 12px;
 }
+
+.d-block.custom-margin {
+    margin: 100px;
+}
+
+.custom-paragraph {
+    text-align: center;
+    font-size: 15px;
+    color:gray;
+}
+
+.custom-enphasis-paragraph {
+    font-weight: bolder;
+    font-size:31px;
+    text-align: center;
+}
+
+.custom-meso-img {
+    /* margin-left: 150px;*/
+    text-align: center;
+}
+
+.custom-meso-space {
+    width: 10px;
+    height: 30px;
+}
+
+.custom-meso-space-before {
+    width:10px;
+    height:115px;
+}
+
+.d-block.img-custom-up {
+    margin-top: 44px;
+}
+
+.d-block.custom-left {
+    margin-left:120px;
+}
+
+.sede-custom-paragraph {
+    margin-top: 25px;
+    text-align: center;
+    font-size: 27px;
+    font-weight: bolder;
+}
+
+.nc-button {
+    background-color: rgb(1,99,59);
+    color: white;
+    border-radius: 3px;
+    border:rgb(1,99,59);
+    height:20px;
+}
+
+.nav-item.dropdown:hover {
+    display: block;
+}
+
+.nc-button.zoom {
+    padding:50;
+    transition:transform .2s;
+    margin:0 auto;
+    transform: scale(2.6);
+}
+
+.zoom:hover {
+    transform: scale(3); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+.nc-div-class {
+    margin-top: 34px;
+    text-align: center;
+}
