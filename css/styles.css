@@ -294,3 +294,12 @@ input[type="text"] {
     border-radius: 400px;
     text-align: center;
 }
+
+.mi-props {
+    text-align: center;
+    font-size: 18px;
+}
+
+.custom-mi-margin {
+    text-align: center;
+}
