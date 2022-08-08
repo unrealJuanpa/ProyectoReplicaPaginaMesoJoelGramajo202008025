@@ -243,6 +243,7 @@ input[type="text"] {
 .explora-bk-props {
     background-color: rgb(1,99,59);
     text-align: center;
+    height: 900px;
 }
 
 .explora-title-props {
@@ -257,4 +258,39 @@ input[type="text"] {
     font-size:15.1px;
     font-weight: 600;
     margin-top: 49px;
+}
+
+.carousel.custom-margin {
+    padding-bottom: 50px;
+}
+
+.carousel-control-prev.bk-style {
+    background-color: transparent;
+    border-color: transparent;
+    /*margin-left: -85px;*/
+}
+
+.carousel-control-next.bk-style {
+    background-color: transparent;
+    border-color: transparent;
+    /*margin-right: -85px;*/
+}
+
+.explora-rev-title {
+    color:white;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.fin-cr-props {
+    margin-bottom: 300px;
+}
+
+.carousel-indicators.explora-bt-props {
+    margin-bottom: -50px;
+}
+
+.custom-rounded-btn {
+    border-radius: 400px;
+    text-align: center;
 }
