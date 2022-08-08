@@ -392,3 +392,28 @@ input[type="text"] {
     height: 27px;
     color:transparent;
 }
+
+.noticias-title {
+    font-size:30px;
+    font-weight: bold;
+}
+
+.noticias-title-props {
+    margin-left: 20px;
+    margin-top: 35px;
+    font-size: 20px;
+}
+
+.noticias-desc-props {
+    margin-left: 20px;
+    font-size:15px;
+    color:gray;
+}
+
+.div-noticias-props {
+    border-style:ridge;
+}
+
+.noticias-img {
+    width: 320px;
+}
