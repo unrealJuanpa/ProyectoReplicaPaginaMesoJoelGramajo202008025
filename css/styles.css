@@ -302,4 +302,17 @@ input[type="text"] {
 
 .custom-mi-margin {
     text-align: center;
+    margin-top: 200px;
+}
+
+.mi-pc-props {
+    height:500px;
+}
+
+.mi-pcp-props {
+    width: 750px;
+}
+
+.col.custom-crs-props {
+    margin-right: 100px;
 }
