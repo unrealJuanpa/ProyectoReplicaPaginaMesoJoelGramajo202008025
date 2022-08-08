@@ -32,10 +32,11 @@ footer{
 }
 
 .dropdown-menu.custom-font {
-    margin-top: 27px;
+    margin-top: 0px;
     font-size:medium; 
     color:rgb(1,99,59); 
     font-weight:600;
+    border-color: transparent;
 }
 
 .dropdown-divider.custom-shape {
@@ -385,4 +386,9 @@ input[type="text"] {
     color:rgb(3,71,50);
     font-size:14px;
     font-weight: bold;
+}
+
+.sutom-shape-two {
+    height: 27px;
+    color:transparent;
 }
