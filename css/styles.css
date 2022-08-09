@@ -436,3 +436,11 @@ input[type="text"] {
     width: 508px;
     margin-left:0px;
 }
+
+.nav-link {
+    color:rgb(1,99,59);
+}
+
+.dropdown-item {
+    color:rgb(1,99,59);
+}
