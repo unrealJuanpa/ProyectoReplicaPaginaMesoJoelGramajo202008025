@@ -417,3 +417,22 @@ input[type="text"] {
 .noticias-img {
     width: 320px;
 }
+
+.horarios-estilo-clase {
+    font-size:26px;
+    font-weight:700;
+}
+
+.horarios-img-style {
+    width: 508px;
+}
+
+.horarios-img-style.left {
+    width: 508px;
+    margin-left:410px;
+}
+
+.horarios-img-style.right {
+    width: 508px;
+    margin-left:0px;
+}
